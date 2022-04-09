@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "lottie-react-native": "^1.1.1",
-    "moment": "^2.18.1",
+    "moment": "^2.29.2",
     "native-base": "^2.1.3",
     "prop-types": "^15.5.10",
     "react": "16.0.0-alpha.6",
